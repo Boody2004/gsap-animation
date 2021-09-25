@@ -1,4 +1,4 @@
-# Gsap-Scroll
+# gsap-scroll
 
 <b>coded by [Boody-BE](https://github.com/Boody2004/gsap-animation)</b>
 
